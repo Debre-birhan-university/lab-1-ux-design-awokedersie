@@ -33,8 +33,9 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > Zemen Gebeya
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> Figma DESIGN
+Design link: https://www.figma.com/design/AGsGnVW9RMiGxLbjJ0cqVZ/Home?node-id=0-1&p=f&t=e0u78xeLZVXSbgbU-0
