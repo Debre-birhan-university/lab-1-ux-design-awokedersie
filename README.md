@@ -37,5 +37,5 @@ Upload the following files directly to your repository via the browser:
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> Figma
+> Figma DESIGN
 Design link: https://www.figma.com/design/AGsGnVW9RMiGxLbjJ0cqVZ/Home?node-id=0-1&p=f&t=e0u78xeLZVXSbgbU-0
